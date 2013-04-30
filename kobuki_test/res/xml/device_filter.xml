@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Kobuki's FTDI Serial2USB converter (remember these are decimal values NOT hex!)-->
+    <usb-device vendor-id="1027" product-id="24577"/>
+</resources>
